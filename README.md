@@ -1,5 +1,7 @@
 # permiDenied
-A new project, and B clone by https
+A new project, and share to wangsha0,success.
+
+B clone by https
 
 last time, use ssh-pub:xhm
 
